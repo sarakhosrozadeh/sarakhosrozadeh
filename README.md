@@ -1,17 +1,19 @@
-### Hi, I'm Sara 👋
+Hi 👋 My name is Sara
+======
 
-<!--
-**sarakhosrozadeh/sarakhosrozadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineer
 
-Here are some ideas to get you started:
+---
+<h3>🌸 &nbsp; About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarakhosrozadeh&layout=compact"/>
+- 🎓 &nbsp; Student of CE subject in Urmia University
+- 🌱 &nbsp; I am interested in full-stack development and network security.
+- ✍️ &nbsp; Coding and drawing are my hobbies. :))
+
+
+
+
+<br />
+<h2>⚡️ &nbsp; Github Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarakhosrozadeh&layout=compact"/>
+
