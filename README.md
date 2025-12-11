@@ -26,9 +26,7 @@
 
 
 
-<br />
-<h2>⚡️ &nbsp; Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarakhosrozadeh&layout=compact"/>
+
 <br />
  <h2>📞Contact me</h2>
 <p align="left">
